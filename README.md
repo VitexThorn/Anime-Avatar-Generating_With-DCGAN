@@ -14,11 +14,11 @@
 
 ## 网页效果展示
 
-![](D:\Git\GithubRepo\DCGAN-Anime-Avatar\-DCGAN-\.md\web-1.png)
+![](./.md/web-1.png)
 
-![web-2](D:\Git\GithubRepo\DCGAN-Anime-Avatar\-DCGAN-\.md\web-2.png)
+![web-2](./.md/web-2.png)
 
-![web-3](D:\Git\GithubRepo\DCGAN-Anime-Avatar\-DCGAN-\.md\web-3.png)
+![web-3](./.md/web-3.png)
 
 ### 参考
 
