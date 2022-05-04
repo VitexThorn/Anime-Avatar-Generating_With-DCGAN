@@ -14,11 +14,11 @@
 
 ## 网页效果展示
 
-![](./.md/web-1.png)
+![](.md/web-1.png)
 
-![web-2](./.md/web-2.png)
+![web-2](.md/web-2.png)
 
-![web-3](./.md/web-3.png)
+![web-3](.md/web-3.png)
 
 ### 参考
 
